@@ -1,17 +1,14 @@
-#include <stdio.h>
 #include <stdlib.h>
+#include <stdio.h>
 #include <string.h>
 
 
 int main(int argc, char *argv[]) {
-    char buf[1024];
+    char buf[4];
+    char larger[1024];
 
-    if(argc != 2) {
-        printf("usage: %s [string]\n", argv[0]);
-        return 1;
-    }
-
-    strcpy(buf, argv[1]);
+    scanf("%s", larger);
+    strcpy(buf, larger);
     printf("%s\n", buf);
 
     return 0;
