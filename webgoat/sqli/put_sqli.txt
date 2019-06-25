@@ -7,7 +7,7 @@ Content-Type: application/x-www-form-urlencoded; charset=UTF-8
 X-Requested-With: XMLHttpRequest
 Content-Length: 83
 Connection: keep-alive
-Cookie: JSESSIONID=7DED5C45D6C3252834F1B83CB35B5963
+Cookie: JSESSIONID=20C39FD1EAF0634FD04799A6D1DB148D
 Host: 127.0.0.1:8080
 
 username_reg=asdf&email_reg=asdf%40asdf&password_reg=asdf&confirm_password_reg=asdf
