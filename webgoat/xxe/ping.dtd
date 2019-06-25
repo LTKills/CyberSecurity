@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ENTITY ping SYSTEM 'http://172.18.0.1:9090/landing'>
