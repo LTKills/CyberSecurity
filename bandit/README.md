@@ -5,7 +5,7 @@
 2. Use `sshpass` to type password in command line, for example:
 ```
 ```
-sshpass -p 'PASSWORD' ssh bandit1@bandit.labs.overthewire.org -p 2220
+sshpass -p 'bandit0' ssh bandit0@bandit.labs.overthewire.org -p 2220
 ```
 
 
