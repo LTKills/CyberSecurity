@@ -1,0 +1,5 @@
+set net.sniff.verbose true
+arp.spoof on
+http.proxy on
+net.probe on
+net.sniff on
