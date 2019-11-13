@@ -1,0 +1,10 @@
+# Simple network monitor caplet for bettercap (currently bettercap v2)
+
+
+net.probe on
+
+set ticker.commands clear; net.show; # this is default (removing it doesn't change functionality)
+set ticker.period 2
+
+ticker on
+
