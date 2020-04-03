@@ -1,0 +1,19 @@
+
+
+
+
+
+
+usr_input_and_pointer = 50
+
+
+
+
+50: 60
+
+
+
+60: ESPACO MALOCADO
+    SENHA (whoops)
+...
+124
