@@ -1,0 +1,25 @@
+3,9,13,15,18,7,20,1,4,14,5,21,6,2,17,10,8,16,12,11,19
+ ______________________________________________________________
+|3 9 13 15 18 7  20  1   4  14  5   21   6   2   17  10       8   16   12  11     19  |
+|__ __ __ _____ _  _________  ______  ___________  _______________  ____|  __
+ W L U B S Q P J W S A L S O E W L A I E I
+ W E O D D P U O A Q Q E A W R Q K Z O I O
+ E M L E E I R E F W B O W D Y I J C M K I
+ S L M L W W T D D E M W P Z U A H K K L Q
+ D O N U I D G L L Z V D I D K S W K I G Z
+ H Y B E P A Q Z M V D Z W M M L Q P S I B
+ G T J W Q S M E I C J S Q B V M A L W S H
+ U D K R K F P G O N O L D N D B Z U T A I
+ I H O T L Q U S L Q R K F P I H B U U B F
+ O A U H Y I T W Q A P Y L I P G V Y I I L
+ K Q R K T K R F W W D D K Y S O C T Z O O
+ M W W M E F D C A D J T L Q O Y O G B R I
+ E I Q N D V Q V Z F Q P H L M W I N O S K
+ W O A F F L J H M K S I Q A I I Y W Y M U
+ T P S Q N O N Y L O A O W Q T R H S W Q W
+ Y L D A O E D R O P X U S U P I E A X W E
+ P S X S Y W W F P T C T A I O P S I Z S X
+ Q A Z P W C P M I U H G D K U W O O W Z N
+ Z Z J K K F K K Y G U H X L R S K P V S M
+ S X L G J I Z I U C W V G G F Z M E S E Q
+ A B P L H U X U R F Q B H F T D K W L U R
